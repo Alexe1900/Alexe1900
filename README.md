@@ -67,3 +67,11 @@ Type|Contact
 Telegram📯|@Alexe1900
 Email✉|alexejbodnarchuk@gmail.com
 Youtube channel|https://www.youtube.com/channel/UCAxnOpuF9i3GxZAAVbp2_yQ
+
+## Public talks
+
+1. 🎧 [Public interview in Metarhia community](https://youtu.be/_g9bjgicmDI)
+  - Interviewer: Timur Shemsedinov https://github.com/tshemsedinov
+  - Topics: JavaScript, collection, complexity, async, node.js, patterns
+  - Grade: middle fullstack engineer
+2. 🎧 [Introduction for Metarhia community](https://youtu.be/6FcibfEMmFE)
