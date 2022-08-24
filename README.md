@@ -5,7 +5,7 @@ Disclaimer ⚠: Everything you read and see now is *true and I made it **by myse
 ## Who i am, My skills
 
 My name is *Alexey Bodnarchuk*. I am a boy from Irpin, Ukraine, that is interested in IT 🐱‍💻, Math 📐 and Physics 🍎
-I am a young Frontend-er (***10 years old***), I learn and use different technologies: 
+I am a young Frontend-er (***11 years old***), I learn and use different technologies: 
 
 Technology|Level
 ----------|-----
@@ -13,18 +13,18 @@ HTML|⭐⭐⭐⭐⭐
 CSS|⭐⭐⭐⭐
 LESS|⭐⭐⭐⭐
 JavaScript|⭐⭐⭐⭐
+Node.js|⭐⭐⭐⭐
 Python|⭐⭐⭐⭐
 React|⭐⭐⭐⭐
 Next.js|⭐⭐⭐
 Typescript|⭐⭐⭐
 Flow|⭐⭐⭐
-Node.js|⭐⭐⭐
 Websockets|⭐⭐
 Webpack|⭐⭐
 Cypress|⭐⭐ 
 
 I solve problems in C++. I know how to work in Photoshop, Corel Draw. I use Git and GitHub in my work.
-I understand math and physics. I can speak English very well (***B2+*** level).
+I understand math and physics. I can speak English very well (***C2*** level).
 
 ### Math and physics
 
@@ -56,17 +56,9 @@ I can speak several languages:
 Language|Level
 --------|-----
 Russian|⭐⭐⭐⭐⭐
-Ukrainian|⭐⭐⭐⭐
-English|⭐⭐⭐⭐ (_**B2+**_)
-German|👎 (but I&#39;m learning 🤓)
-
-## Contacts
-
-Type|Contact
-----|-------
-Telegram📯|@Alexe1900
-Email✉|alexejbodnarchuk@gmail.com
-Youtube channel|https://www.youtube.com/channel/UCAxnOpuF9i3GxZAAVbp2_yQ
+Ukrainian|⭐⭐⭐⭐⭐
+English|⭐⭐⭐⭐⭐ (_**C2**_)
+German|⭐⭐⭐
 
 ## Public talks
 
@@ -75,3 +67,11 @@ Youtube channel|https://www.youtube.com/channel/UCAxnOpuF9i3GxZAAVbp2_yQ
   - Topics: JavaScript, collection, complexity, async, node.js, patterns
   - Grade: middle fullstack engineer
 2. 🎧 [Introduction for Metarhia community](https://youtu.be/6FcibfEMmFE)
+
+## Contacts
+
+Type|Contact
+----|-------
+Telegram📯|@Alexe1900
+Email✉|alexejbodnarchuk@gmail.com
+Youtube channel|https://www.youtube.com/channel/UCAxnOpuF9i3GxZAAVbp2_yQ

@@ -1,1 +1,1 @@
-module.exports = 'B2+';
+module.exports = 'C2';
