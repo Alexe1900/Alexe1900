@@ -5,7 +5,7 @@ Disclaimer ⚠: Everything you read and see now is *true and I made it **by myse
 ## Who i am, My skills
 
 My name is *Alexey Bodnarchuk*. I am a boy from Irpin, Ukraine, that is interested in IT 🐱‍💻, Math 📐 and Physics 🍎
-I am a young Frontend-er (***11 years old***), I learn and use different technologies: 
+I am a young Frontend-er (***14 years old***), I learn and use different technologies: 
 
 Technology|Level
 ----------|-----
@@ -58,7 +58,7 @@ Language|Level
 Russian|⭐⭐⭐⭐⭐
 Ukrainian|⭐⭐⭐⭐⭐
 English|⭐⭐⭐⭐⭐ (_**C2**_)
-German|⭐⭐⭐
+German|⭐⭐⭐⭐
 
 ## Public talks
 
