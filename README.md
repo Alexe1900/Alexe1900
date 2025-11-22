@@ -33,3 +33,5 @@ Hanoi towers game state analysis AI ([here](https://github.com/Alexe1900/video-a
 The Swiss Gymnasium-entrance-exam after only a year of learning German
 
 ## ^ and all the shtuff described above at just 14
+
+Contact me at alexejbodnarchuk@gmail.com
