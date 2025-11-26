@@ -22,7 +22,7 @@ My own [IITA](https://r.tquant.eu/UniGraz/IITA/) implementation in python ([here
 
 Mandelbrot set simulation software made with Manim ([here](https://github.com/Alexe1900/mandelbrot))
 
-Hanoi towers game state analysis AI ([here](https://github.com/Alexe1900/video-analysis))
+Hanoi towers game state analysis AI ([here](https://github.com/Alexe1900/video-analysis), WIP)
 
 ... more shtuff coming soon
 
