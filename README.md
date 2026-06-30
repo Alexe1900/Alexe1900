@@ -28,7 +28,11 @@ Hanoi towers game state analysis AI ([here](https://github.com/Alexe1900/video-a
 
 ## Shtuff I accomplished
 
-8th place and silver medal at the [Swiss Olympiad in Informatics](https://soi.ch)
+Silver medal (8th place) at the [Swiss Olympiad in Informatics 2026](https://soi.ch)
+
+Silver medal (15th place) at the [Western European Olympiad in Informatics 2026](https://weoi.org/weoi-2026/)
+
+Qualified for the [Central European Olympiad in Informatics 2026](https://ceoi2026.acm.si/)
 
 The Swiss Gymnasium-entrance-exam after only a year of learning German
 
